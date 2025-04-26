@@ -249,6 +249,10 @@ MonoBehaviour:
   shop: {fileID: -382425187, guid: 38f3c1bb574f8d0418aad564184fb4b2, type: 3}
   boss: {fileID: 1332096903, guid: 38f3c1bb574f8d0418aad564184fb4b2, type: 3}
   secret: {fileID: -498541675, guid: 38f3c1bb574f8d0418aad564184fb4b2, type: 3}
+  largeRoom: {fileID: 839263132, guid: 121c1ef286e1ede4e9664a4b7c462315, type: 3}
+  verticalRoom: {fileID: -2053642942, guid: 121c1ef286e1ede4e9664a4b7c462315, type: 3}
+  horizontalRoom: {fileID: -1121837406, guid: 121c1ef286e1ede4e9664a4b7c462315, type: 3}
+  lShapeRoom: {fileID: 1224543552, guid: 121c1ef286e1ede4e9664a4b7c462315, type: 3}
 --- !u!4 &1274070245
 Transform:
   m_ObjectHideFlags: 0

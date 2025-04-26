@@ -133,6 +133,7 @@ MonoBehaviour:
   index: 0
   value: 0
   spriteRenderer: {fileID: 5173405253875827761}
+  roomSprite: {fileID: 5689360970581527786}
 --- !u!212 &5689360970581527786
 SpriteRenderer:
   m_ObjectHideFlags: 0
