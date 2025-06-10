@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 38f3c1bb574f8d0418aad564184fb4b2
+guid: c6d07c22c23862d43b6bf8c39bd56cc7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,85 +123,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: special_rooms_0
+      name: shop_doors_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 22
+        y: 96
+        width: 56
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcafe20ad2411e44389d396e2aa47289
-      internalID: 1332096903
+      spriteID: 6e0179988ae18c0478383ea34432bcc8
+      internalID: -181297935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: special_rooms_1
+      name: shop_doors_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 36
+        width: 24
+        height: 56
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdd9b15a4f35c1d47a76ade0ec415fa7
-      internalID: -382425187
+      spriteID: 72e001faf7f2d4c439da8a9b82bfee6e
+      internalID: -353101869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: special_rooms_2
+      name: shop_doors_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 69
+        y: 36
+        width: 24
+        height: 56
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d328e05d21275945ac9d303ddc290c5
-      internalID: -1202685125
+      spriteID: 6d4b99b6d75413b43abf84b2ca1bb290
+      internalID: 499781048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: special_rooms_3
+      name: shop_doors_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 22
+        y: 8
+        width: 56
+        height: 24
+      alignment: 3
+      pivot: {x: 1, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45a5e6f0efeee6c46b0b5313162f226e
-      internalID: -498541675
+      spriteID: 5857ac3c2ee37d549b71ccc7a1b92f49
+      internalID: 1165513340
       vertices: []
       indices: 
       edges: []
@@ -217,10 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      special_rooms_0: 1332096903
-      special_rooms_1: -382425187
-      special_rooms_2: -1202685125
-      special_rooms_3: -498541675
+      shop_doors_0: -181297935
+      shop_doors_1: -353101869
+      shop_doors_2: 499781048
+      shop_doors_3: 1165513340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -184,7 +184,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3
+  orthographic size: 2.8125
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -225,6 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1274070245}
   - component: {fileID: 1274070244}
+  - component: {fileID: 1274070246}
   m_Layer: 0
   m_Name: Map Generator
   m_TagString: Untagged
@@ -268,3 +269,37 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1274070246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1274070243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dd1dfba2bb71fc43b5e9bb62b199661, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetX: 21.25
+  offsetY: 10.625
+  roomPrefab: {fileID: 2849868313178009030, guid: 4e376ce2bf7117d47b2ea54cf0f28456, type: 3}
+  doorPrefab: {fileID: 1296053768979650753, guid: 5ac7f395fbf45dd4787359cf8b5e2a65, type: 3}
+  doors:
+  - {fileID: 11400000, guid: d856f6cd1df0f664593c598b83ae2c91, type: 2}
+  - {fileID: 11400000, guid: df4ee47699bef27478da55c0768a90f9, type: 2}
+  - {fileID: 11400000, guid: e4f79aa0f00f53d4bbe70e27d333fbc2, type: 2}
+  - {fileID: 11400000, guid: 836917d664abcc740a444366998cd253, type: 2}
+  rooms:
+  - {fileID: 11400000, guid: b88619e579b7f63488791ca701235ba4, type: 2}
+  - {fileID: 11400000, guid: c32c8becf4f7d0744b45d8e512c34d28, type: 2}
+  - {fileID: 11400000, guid: ff3eedf9fa8d0884190a9aae3b057d5e, type: 2}
+  - {fileID: 11400000, guid: 9bdf7118b436aa643bd9b933bf2c59cf, type: 2}
+  - {fileID: 11400000, guid: 2edb3fc28f8e85c469fc943e1c7832d3, type: 2}
+  - {fileID: 11400000, guid: ae755abfc88c2c945b5663a5042994b9, type: 2}
+  - {fileID: 11400000, guid: a2574c5776ded1a4a8783e639aa091da, type: 2}
+  - {fileID: 11400000, guid: f010733c84da579408fe4f7ae7323b91, type: 2}
+  - {fileID: 11400000, guid: 80e6336cdd46eda45889e9014462b26f, type: 2}
+  - {fileID: 11400000, guid: 03e46dcabf4afa8458f6a4cf317a68b1, type: 2}
+  - {fileID: 11400000, guid: 3bc7561c09daeb1499d5032d5bc68fe4, type: 2}
+  - {fileID: 11400000, guid: 864fea1039480c7438fdb2116ae2ffa9, type: 2}

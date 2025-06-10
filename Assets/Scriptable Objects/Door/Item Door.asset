@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d050ec3047c169142859f138a73bfe6a, type: 3}
+  m_Name: Item Door
+  m_EditorClassIdentifier: 
+  roomType: 1
+  upDoor: {fileID: -835800628, guid: b2da2c0608e2080418928e725ceeb794, type: 3}
+  downDoor: {fileID: 1564481805, guid: b2da2c0608e2080418928e725ceeb794, type: 3}
+  leftDoor: {fileID: 332961617, guid: b2da2c0608e2080418928e725ceeb794, type: 3}
+  rightDoor: {fileID: 1465091421, guid: b2da2c0608e2080418928e725ceeb794, type: 3}
